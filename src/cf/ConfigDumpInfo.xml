@@ -4453,8 +4453,8 @@
 			<Metadata name="Document.узВыпускРелиза.Attribute.ТекстСодержания" id="f82fd838-882a-4764-afc0-a79612b6f95b"/>
 			<Metadata name="Document.узВыпускРелиза.Attribute.Содержание" id="fadb191b-97cb-4edd-953f-d0c012cad45a"/>
 		</Metadata>
-		<Metadata name="Document.узВыпускРелиза.Form.ФормаДокумента" id="7705e38a-150f-497a-9c38-6bfa0c02cec4" configVersion="3544bba4ab0c0a46ab066fb3ce050ec900000000"/>
-		<Metadata name="Document.узВыпускРелиза.Form.ФормаДокумента.Form" id="7705e38a-150f-497a-9c38-6bfa0c02cec4.0" configVersion="b2ca6b2a13a12543bb914c00182ae34000000000"/>
+		<Metadata name="Document.узВыпускРелиза.Form.ФормаДокумента" id="7705e38a-150f-497a-9c38-6bfa0c02cec4" configVersion="869c3bc1a12e834195acf09b17b08f2900000000"/>
+		<Metadata name="Document.узВыпускРелиза.Form.ФормаДокумента.Form" id="7705e38a-150f-497a-9c38-6bfa0c02cec4.0" configVersion="31b49bda9e4c944e88fee3e6ccb6bbe100000000"/>
 		<Metadata name="Document.узВыпускРелиза.Form.ФормаСписка" id="882b50c8-b697-4bea-b94e-c8393f541373" configVersion="512d78a20fc68a4dad2a1d3ab4d6652700000000"/>
 		<Metadata name="Document.узВыпускРелиза.Form.ФормаСписка.Form" id="882b50c8-b697-4bea-b94e-c8393f541373.0" configVersion="1389b9dd253e5f4c91c8e5b7a29c561400000000"/>
 		<Metadata name="Document.узВыпускРелиза.ObjectModule" id="d8bd218e-fd48-4fdc-ad98-218f9e5dcd98.0" configVersion="44a351fe6527b447bdf096ff1410875f00000000"/>
